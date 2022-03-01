@@ -3,4 +3,4 @@ Functions based off of algorithms presented in "Numerical Analysis" (Burden et a
 
 The code is not optimized due to the fast paced nature of the course.
 
-Code for my APM 5334 "Numerical Methods" course for Fall 2021 can be found at https://github.com/benCd/apm_5333
+Code for my APM 5333 "Numerical Methods" course for Fall 2021 can be found at https://github.com/benCd/apm_5333
